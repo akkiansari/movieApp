@@ -34,9 +34,9 @@ export default function NavBar(){
                     onChange={handleSetSearch}
                     onMouseDown={toggleSearchOn}
                 />
-                {/* { showSearch &&
+                { showSearch &&
                     <SearchResults search={search}/>
-                } */}
+                }
             </form>
         </div>
     );
