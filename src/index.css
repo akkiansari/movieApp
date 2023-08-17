@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: rgb(161, 158, 158);
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+:root {
+    color-scheme: light;
+}
+
+
+.div_columns {
+    direction:ltr;
+}
